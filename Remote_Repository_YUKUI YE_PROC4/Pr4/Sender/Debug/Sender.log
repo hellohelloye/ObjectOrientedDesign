@@ -1,0 +1,29 @@
+﻿Build started 4/30/2013 8:04:31 PM.
+Project "C:\Users\yye_000\Desktop\Pr4\Sender\Sender.vcxproj" on node 2 (Rebuild target(s)).
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D NODOLOG /D _UNICODE /D UNICODE /Gm /EHa /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\Base64\Base64.cpp ..\BlockingQueue\BlockingQueue.cpp ..\FileSystem\FileSystem.cpp ..\Sockets\Sockets.cpp ..\Threads\Locks.cpp ..\Threads\Threads.cpp FileManager.cpp Sender.cpp
+  Sender.cpp
+  FileManager.cpp
+  Threads.cpp
+  Locks.cpp
+  Sockets.cpp
+  FileSystem.cpp
+  BlockingQueue.cpp
+  Base64.cpp
+  Generating Code...
+Lib:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"C:\Users\yye_000\Desktop\Pr4\Debug\Sender.lib" /NOLOGO Debug\Base64.obj
+  Debug\BlockingQueue.obj
+  Debug\FileSystem.obj
+  Debug\Sockets.obj
+  Debug\Locks.obj
+  Debug\Threads.obj
+  Debug\FileManager.obj
+  Debug\Sender.obj
+Threads.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  Sender.vcxproj -> C:\Users\yye_000\Desktop\Pr4\Debug\Sender.lib
+Done Building Project "C:\Users\yye_000\Desktop\Pr4\Sender\Sender.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.87

@@ -1,0 +1,48 @@
+﻿Build started 3/24/2013 7:25:02 AM.
+Project "C:\Users\yye_000\Desktop\Yukui\Yukui\Yukui.vcxproj" on node 2 (Rebuild target(s)).
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ActionsAndRules.cpp classVector.cpp ConfigureParser.cpp execute.cpp FileSystem.cpp FileSystemManagement.cpp FoldingRules.cpp Graph.cpp Parser.cpp PassFunc.cpp relationVector.cpp ScopeStack.cpp SemiExpression.cpp Tokenizer.cpp Utility.cpp xmlElementParts.cpp XmlReader.cpp XmlWriter.cpp
+  XmlWriter.cpp
+  XmlReader.cpp
+  xmlElementParts.cpp
+  Utility.cpp
+  Tokenizer.cpp
+  SemiExpression.cpp
+  ScopeStack.cpp
+  relationVector.cpp
+  PassFunc.cpp
+  Parser.cpp
+  Graph.cpp
+  FoldingRules.cpp
+  FileSystemManagement.cpp
+  FileSystem.cpp
+  execute.cpp
+  ConfigureParser.cpp
+  classVector.cpp
+  ActionsAndRules.cpp
+  Generating Code...
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\yye_000\Desktop\Yukui\Debug\PackageDependency.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\yye_000\Desktop\Yukui\Debug\PackageDependency.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\yye_000\Desktop\Yukui\Debug\PackageDependency.lib" /MACHINE:X86 Debug\ActionsAndRules.obj
+  Debug\classVector.obj
+  Debug\ConfigureParser.obj
+  Debug\execute.obj
+  Debug\FileSystem.obj
+  Debug\FileSystemManagement.obj
+  Debug\FoldingRules.obj
+  Debug\Graph.obj
+  Debug\Parser.obj
+  Debug\PassFunc.obj
+  Debug\relationVector.obj
+  Debug\ScopeStack.obj
+  Debug\SemiExpression.obj
+  Debug\Tokenizer.obj
+  Debug\Utility.obj
+  Debug\xmlElementParts.obj
+  Debug\XmlReader.obj
+  Debug\XmlWriter.obj
+  Yukui.vcxproj -> C:\Users\yye_000\Desktop\Yukui\Debug\PackageDependency.exe
+Done Building Project "C:\Users\yye_000\Desktop\Yukui\Yukui\Yukui.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:13.57

@@ -1,0 +1,101 @@
+<? xml version="1.0" ?>
+
+
+
+ Graph To Xml String
+
+<Dependency Analysis Between Classes
+ class="vertex" relationship="edge">
+
+<A className:="A">
+</A>
+
+<B className:="B">
+</B>
+
+<B className:="B">
+</B>
+
+<C className:="C">
+</C>
+
+<D className:="D">
+</D>
+
+<globalValue1 className:="globalValue1">
+</globalValue1>
+
+<gv2 className:="gv2">
+</gv2>
+
+<E className:="E">
+</E>
+
+<W className:="W">
+</W>
+
+<H className:="H">
+</H>
+
+<structClasselement className:="structClasselement">
+</structClasselement>
+
+<enumClassrelation className:="enumClassrelation">
+</enumClassrelation>
+
+<c4 className:="c4">
+</c4>
+
+<mm2 className:="mm2">
+</mm2>
+
+<classFromSecondtestfile className:="classFromSecondtestfile">
+</classFromSecondtestfile>
+
+<classFromThirdTestFile className:="classFromThirdTestFile">
+</classFromThirdTestFile>
+
+<G className:="G">
+</G>
+
+<A className:="A">
+</A>
+
+<B className:="B">
+</B>
+
+<gf className:="gf">
+</gf>
+
+<gf2 className:="gf2">
+</gf2>
+
+<E className:="E">
+</E>
+
+<W className:="W">
+</W>
+
+<structClasselement className:="structClasselement">
+</structClasselement>
+
+<enumClassrelation className:="enumClassrelation">
+</enumClassrelation>
+
+<c4 className:="c4">
+</c4>
+
+<mm2 className:="mm2">
+</mm2>
+
+<classFromSecondtestfile className:="classFromSecondtestfile">
+</classFromSecondtestfile>
+
+<classFromThirdTestFile className:="classFromThirdTestFile">
+</classFromThirdTestFile>
+
+<G className:="G">
+</G>
+
+</Dependency Analysis Between Classes
+>

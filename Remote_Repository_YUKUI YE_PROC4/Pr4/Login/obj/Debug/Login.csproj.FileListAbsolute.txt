@@ -1,0 +1,7 @@
+C:\Users\yye_000\Downloads\Pr4\Login\obj\Debug\MainWindow.baml
+C:\Users\yye_000\Downloads\Pr4\Login\obj\Debug\MainWindow.g.cs
+C:\Users\yye_000\Downloads\Pr4\Login\obj\Debug\App.g.cs
+C:\Users\yye_000\Downloads\Pr4\Login\obj\Debug\Login_MarkupCompile.cache
+C:\Users\yye_000\Downloads\Pr4\Login\obj\Debug\Login.g.resources
+C:\Users\yye_000\Downloads\Pr4\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\yye_000\Downloads\Pr4\Login\obj\Debug\Login.csproj.GenerateResource.Cache

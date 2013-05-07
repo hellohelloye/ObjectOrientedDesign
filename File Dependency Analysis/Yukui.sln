@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PackageDependency", "Yukui\Yukui.vcxproj", "{F91A58BF-24FF-4F16-B435-8C4B99471E3D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Graph", "Graph\Graph.vcxproj", "{1CBB14FF-CD09-4561-9B4F-C5E10D3C31BA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FileSystem", "FileSystem\FileSystem.vcxproj", "{5F9FE479-AD67-4C85-8CB4-C7493808BFEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F91A58BF-24FF-4F16-B435-8C4B99471E3D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F91A58BF-24FF-4F16-B435-8C4B99471E3D}.Debug|Win32.Build.0 = Debug|Win32
+		{F91A58BF-24FF-4F16-B435-8C4B99471E3D}.Release|Win32.ActiveCfg = Release|Win32
+		{F91A58BF-24FF-4F16-B435-8C4B99471E3D}.Release|Win32.Build.0 = Release|Win32
+		{1CBB14FF-CD09-4561-9B4F-C5E10D3C31BA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1CBB14FF-CD09-4561-9B4F-C5E10D3C31BA}.Debug|Win32.Build.0 = Debug|Win32
+		{1CBB14FF-CD09-4561-9B4F-C5E10D3C31BA}.Release|Win32.ActiveCfg = Release|Win32
+		{1CBB14FF-CD09-4561-9B4F-C5E10D3C31BA}.Release|Win32.Build.0 = Release|Win32
+		{5F9FE479-AD67-4C85-8CB4-C7493808BFEC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5F9FE479-AD67-4C85-8CB4-C7493808BFEC}.Debug|Win32.Build.0 = Debug|Win32
+		{5F9FE479-AD67-4C85-8CB4-C7493808BFEC}.Release|Win32.ActiveCfg = Release|Win32
+		{5F9FE479-AD67-4C85-8CB4-C7493808BFEC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
